@@ -1,0 +1,369 @@
+# depslib dependency file v1.0
+1704842081 source:s:\1\abc\code.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1704842454 source:s:\1\abc\main.cpp
+	"Admin.h"
+	"Faculty.h"
+	<iostream>
+	<sstream>
+	"Admin.h"
+	"Faculty.h"
+	<iostream>
+	<sstream>
+
+1704842454 s:\1\abc\include\admin.h
+	"Account.h"
+	<fstream>
+	<vector>
+	"Student.h"
+	<iostream>
+	"Account.h"
+	<fstream>
+	<vector>
+	"Student.h"
+	<iostream>
+
+1704842455 s:\1\abc\include\account.h
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+	<string>
+	<iostream>
+
+1704842455 s:\1\abc\include\student.h
+	"UndergraduateCourse.h"
+	<vector>
+	<iostream>
+	"UndergraduateCourse.h"
+	<vector>
+	<iostream>
+
+1704842454 s:\1\abc\include\undergraduatecourse.h
+	"Course.h"
+	<iostream>
+	"Course.h"
+	<iostream>
+
+1704842455 s:\1\abc\include\course.h
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+	<string>
+	<iostream>
+
+1704842491 s:\1\abc\include\faculty.h
+	<vector>
+	<iostream>
+	<vector>
+	<iostream>
+
+1704842455 source:s:\1\abc\src\account.cpp
+	"Account.h"
+	"Account.h"
+
+1704842455 source:s:\1\abc\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	"Admin.h"
+	<iostream>
+	<fstream>
+
+1704842455 source:s:\1\abc\src\course.cpp
+	"Course.h"
+	"Course.h"
+
+1704842454 source:s:\1\abc\src\postgraduatecourse.cpp
+	"PostgraduateCourse.h"
+	<iostream>
+	"PostgraduateCourse.h"
+	<iostream>
+
+1704842455 s:\1\abc\include\postgraduatecourse.h
+	"Course.h"
+	<iostream>
+	"Course.h"
+	<iostream>
+
+1704842454 source:s:\1\abc\src\professionaldevelopmentcourse.cpp
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+
+1704842454 s:\1\abc\include\professionaldevelopmentcourse.h
+	"Course.h"
+	<iostream>
+	"Course.h"
+	<iostream>
+
+1704842455 source:s:\1\abc\src\undergraduatecourse.cpp
+	"UndergraduateCourse.h"
+	<iostream>
+	"UndergraduateCourse.h"
+	<iostream>
+
+1704829932 source:c:\users\123\downloads\1\1\abc\code.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1704929676 source:c:\users\123\downloads\1\1\abc\main.cpp
+	"Admin.h"
+	<algorithm>
+	<iostream>
+	<sstream>
+
+1704862426 c:\users\123\downloads\1\1\abc\include\admin.h
+	<fstream>
+	<vector>
+	"Student.h"
+	<iostream>
+
+1704844404 c:\users\123\downloads\1\1\abc\include\account.h
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+
+1704927992 c:\users\123\downloads\1\1\abc\include\student.h
+	"UndergraduateCourse.h"
+	<vector>
+	"Account.h"
+	<iostream>
+
+1704929353 c:\users\123\downloads\1\1\abc\include\undergraduatecourse.h
+	"Course.h"
+	<iostream>
+
+1704829932 c:\users\123\downloads\1\1\abc\include\course.h
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+	<string>
+	<iostream>
+
+1704854319 c:\users\123\downloads\1\1\abc\include\faculty.h
+	<vector>
+	<iostream>
+	<vector>
+	<iostream>
+
+1704829932 source:c:\users\123\downloads\1\1\abc\src\account.cpp
+	"Account.h"
+	"Account.h"
+
+1704926552 source:c:\users\123\downloads\1\1\abc\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1704829932 source:c:\users\123\downloads\1\1\abc\src\course.cpp
+	"Course.h"
+	"Course.h"
+
+1704850686 source:c:\users\123\downloads\1\1\abc\src\postgraduatecourse.cpp
+	"PostgraduateCourse.h"
+	<iostream>
+	"PostgraduateCourse.h"
+	<iostream>
+
+1704850653 c:\users\123\downloads\1\1\abc\include\postgraduatecourse.h
+	"Course.h"
+	<iostream>
+	"Course.h"
+	<iostream>
+
+1704850702 source:c:\users\123\downloads\1\1\abc\src\professionaldevelopmentcourse.cpp
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+
+1704850732 c:\users\123\downloads\1\1\abc\include\professionaldevelopmentcourse.h
+	"Course.h"
+	<iostream>
+	"Course.h"
+	<iostream>
+
+1704929553 source:c:\users\123\downloads\1\1\abc\src\undergraduatecourse.cpp
+	"UndergraduateCourse.h"
+	<iostream>
+
+1704854288 source:c:\users\123\downloads\1\1\abc\src\faculty.cpp
+	"Faculty.h"
+	<iostream>
+	"Faculty.h"
+	<iostream>
+
+1704928146 source:c:\users\123\downloads\1\1\abc\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1704995191 source:c:\users\khskr\downloads\abc (4)\abc\main.cpp
+	"Admin.h"
+	<algorithm>
+	<iostream>
+	<sstream>
+
+1704858828 c:\users\khskr\downloads\abc (4)\abc\include\admin.h
+	<fstream>
+	<vector>
+	"Student.h"
+	<iostream>
+
+1704924394 c:\users\khskr\downloads\abc (4)\abc\include\student.h
+	"UndergraduateCourse.h"
+	<vector>
+	"Account.h"
+	<iostream>
+
+1704925754 c:\users\khskr\downloads\abc (4)\abc\include\undergraduatecourse.h
+	"Course.h"
+	<iostream>
+
+1704826334 c:\users\khskr\downloads\abc (4)\abc\include\course.h
+	<iostream>
+	<string>
+	<iostream>
+
+1704840806 c:\users\khskr\downloads\abc (4)\abc\include\account.h
+	<iostream>
+	<string>
+
+1704826334 source:c:\users\khskr\downloads\abc (4)\abc\src\account.cpp
+	"Account.h"
+
+1704995034 source:c:\users\khskr\downloads\abc (4)\abc\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1704826334 source:c:\users\khskr\downloads\abc (4)\abc\src\course.cpp
+	"Course.h"
+
+1704850690 source:c:\users\khskr\downloads\abc (4)\abc\src\faculty.cpp
+	"Faculty.h"
+	<iostream>
+
+1704850720 c:\users\khskr\downloads\abc (4)\abc\include\faculty.h
+	<vector>
+	<iostream>
+
+1704847088 source:c:\users\khskr\downloads\abc (4)\abc\src\postgraduatecourse.cpp
+	"PostgraduateCourse.h"
+	<iostream>
+
+1704847054 c:\users\khskr\downloads\abc (4)\abc\include\postgraduatecourse.h
+	"Course.h"
+	<iostream>
+
+1704847104 source:c:\users\khskr\downloads\abc (4)\abc\src\professionaldevelopmentcourse.cpp
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+
+1704847134 c:\users\khskr\downloads\abc (4)\abc\include\professionaldevelopmentcourse.h
+	"Course.h"
+	<iostream>
+
+1704994758 source:c:\users\khskr\downloads\abc (4)\abc\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1704992497 source:c:\users\khskr\downloads\abc (4)\abc\src\undergraduatecourse.cpp
+	"UndergraduateCourse.h"
+	<iostream>
+
+1705053597 source:c:\users\khskr\videos\abc\main.cpp
+	"Admin.h"
+	<algorithm>
+	<iostream>
+	<sstream>
+
+1704858828 c:\users\khskr\videos\abc\include\admin.h
+	<fstream>
+	<vector>
+	"Student.h"
+	<iostream>
+
+1704924394 c:\users\khskr\videos\abc\include\student.h
+	"UndergraduateCourse.h"
+	<vector>
+	"Account.h"
+	<iostream>
+
+1704925754 c:\users\khskr\videos\abc\include\undergraduatecourse.h
+	"Course.h"
+	<iostream>
+
+1704826334 c:\users\khskr\videos\abc\include\course.h
+	<iostream>
+	<string>
+	<iostream>
+
+1704840806 c:\users\khskr\videos\abc\include\account.h
+	<iostream>
+	<string>
+
+1704826334 source:c:\users\khskr\videos\abc\src\account.cpp
+	"Account.h"
+
+1705017533 source:c:\users\khskr\videos\abc\src\admin.cpp
+	"Admin.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
+1704826334 source:c:\users\khskr\videos\abc\src\course.cpp
+	"Course.h"
+
+1704850690 source:c:\users\khskr\videos\abc\src\faculty.cpp
+	"Faculty.h"
+	<iostream>
+
+1704850720 c:\users\khskr\videos\abc\include\faculty.h
+	<vector>
+	<iostream>
+
+1704847088 source:c:\users\khskr\videos\abc\src\postgraduatecourse.cpp
+	"PostgraduateCourse.h"
+	<iostream>
+
+1704847054 c:\users\khskr\videos\abc\include\postgraduatecourse.h
+	"Course.h"
+	<iostream>
+
+1704847104 source:c:\users\khskr\videos\abc\src\professionaldevelopmentcourse.cpp
+	"ProfessionalDevelopmentCourse.h"
+	<iostream>
+
+1704847134 c:\users\khskr\videos\abc\include\professionaldevelopmentcourse.h
+	"Course.h"
+	<iostream>
+
+1705015825 source:c:\users\khskr\videos\abc\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1704992497 source:c:\users\khskr\videos\abc\src\undergraduatecourse.cpp
+	"UndergraduateCourse.h"
+	<iostream>
+
